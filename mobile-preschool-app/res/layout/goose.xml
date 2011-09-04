@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent" android:layout_height="match_parent"
+	android:background="@drawable/background01">
+    <LinearLayout android:layout_height="match_parent" android:layout_width="wrap_content" android:id="@+id/linearLayout1" android:orientation="vertical">
+        <CheckBox android:layout_height="wrap_content" android:text="" android:id="@+id/gooseCheckBox" android:layout_width="wrap_content"></CheckBox>
+        <ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:background="@anim/dragonfly" android:id="@+id/dragonflyImage" android:layout_marginLeft="30dip" android:layout_marginTop="100dip"></ImageView>
+    </LinearLayout>
+	<ImageView android:layout_width="wrap_content" android:background="@anim/goose" android:layout_height="wrap_content" android:id="@+id/gooseImage" android:layout_marginTop="20dip"></ImageView>
+</LinearLayout>

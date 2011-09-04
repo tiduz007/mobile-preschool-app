@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">维京幼教</string>
+    <string name="mainTitle">维京幼教乐园</string>
+    <string name="game01">咏鹅</string>
+    <string name="game02">其他游戏</string>
+    <string name="about">关于我们</string>
+</resources>
